@@ -49,7 +49,6 @@ The `TotalCharges` column contained 11 blank values. These records corresponded 
 
 The project follows the following workflow:
 
-```text
 Telco Customer Churn Dataset
             |
             v
@@ -256,3 +255,5 @@ References
 3. Imbalanced-learn documentation.
 4. XGBoost documentation.
 5. Streamlit documentation.
+
+ 
