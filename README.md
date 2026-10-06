@@ -1,3 +1,5 @@
+Google Colab Link: https://colab.research.google.com/drive/1jIhBIYWAi8JN8pSBX_rYpW3MjNdpEEsw?usp=sharing
+
 # Customer Churn Prediction Using Machine Learning
 
 A machine learning project that predicts whether a telecommunications customer is likely to churn based on demographic, service, contract, and billing information.
